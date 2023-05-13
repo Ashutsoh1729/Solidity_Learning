@@ -1,0 +1,70 @@
+{
+	"compiler": {
+		"version": "0.8.18+commit.87f61d96"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "string",
+						"name": "_text",
+						"type": "string"
+					}
+				],
+				"stateMutability": "nonpayable",
+				"type": "constructor"
+			},
+			{
+				"inputs": [],
+				"name": "text",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Basics/Daulat Hassan Solidity Cousrse/constructor.sol": "Y"
+		},
+		"evmVersion": "paris",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Basics/Daulat Hassan Solidity Cousrse/constructor.sol": {
+			"keccak256": "0x77c08d543ff8194efa232145a4995c2d879f324f0c48fd5d51b4a58af86f707b",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://4119577fc7053986576750ab946098e434affdd0d448e03c1f479b7e87d19556",
+				"dweb:/ipfs/QmUirrf9hv2JFTyC2DcVinEs9a5ESCy8uVYx4HfZcSEbpZ"
+			]
+		}
+	},
+	"version": 1
+}
